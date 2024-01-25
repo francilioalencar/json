@@ -1,4 +1,13 @@
 {
+  "pacientes":[
+    {
+      "id": 123,
+      "name": "Paciente Teste"
+      
+    }
+
+    
+  ],
   "posts": [
     {
       "id": 1,
