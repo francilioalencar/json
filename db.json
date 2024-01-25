@@ -12,19 +12,6 @@
         "passo4": "n",
         "passo5": "n"
       }
-    },
-    {
-      "id": 456,
-      "name": "Paciente 456",
-      "date": "2024-01-10",
-      "procedimento" : "Procedimento 456 Teste",
-      "status":{
-        "passo1": "n",
-        "passo2": "n",
-        "passo3": "n",
-        "passo4": "n",
-        "passo5": "n"
-      }
     }
   
   ],
