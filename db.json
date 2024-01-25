@@ -1,16 +1,7 @@
 {
-  "pacientes":[
-    {
-      "id": 123,
-      "name": "Paciente Teste"
-      
-    }
-
-    
-  ],
   "posts": [
     {
-      "id": 1,
+      "id": 321,
       "title": "Post 1"
     },
     {
