@@ -1,45 +1,16 @@
 {
-  "post": [
-    {
-      "id": 123,
-      "name": "Paciente 123",
-      "date": "2024-01-01",
-      "procedimento" : "Procedimento 123 Teste",
-      "status":[{
-        "passo1": "n",
-        "passo2": "n",
-        "passo3": "n",
-        "passo4": "n",
-        "passo5": "n"
-      }]
-    },
-    {
-      "id": 456,
-      "name": "Paciente 456",
-      "date": "2024-01-01",
-      "procedimento" : "Procedimento 456 Teste",
-      "status":[{
-        "passo1": "n",
-        "passo2": "n",
-        "passo3": "n",
-        "passo4": "n",
-        "passo5": "n"
-      }]
-    }
   
-  ],
   "posts": [
     {
       "id": 123,
-      "name": "Paciente 123",
-      "date": "2024-01-01",
-      "procedimento" : "Procedimento 123 Teste",
-      "status":[{
-        "passo1": "n",
-        "passo2": "n",
-        "passo3": "n",
-        "passo4": "n",
-        "passo5": "n"
+      "name": "Francilio Alencar de Sousa",
+      "interesse": "Full Stack| Java | Spring boot | React | Node | Typescript",
+      "copentecias":[{
+        "passo1": "Java spring boot",
+        "passo2": "Java",
+        "passo3": "Javascripty",
+        "passo4": "React",
+        "passo5": "Angulas"
       }]
     },
     {
