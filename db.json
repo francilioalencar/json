@@ -5,6 +5,7 @@
       "id": 123,
       "name": "Francilio Alencar de Sousa",
       "interesse": "Full Stack| Java | Spring boot | React | Node | Typescript",
+      "foto" : "https://media.licdn.com/dms/image/C4E03AQGEzdPSj0Dytw/profile-displayphoto-shrink_200_200/0/1646363212583?e=1723680000&v=beta&t=qFQ2VAQDVyO-mndjEfMvoMFH0GFq6QIbBkxqZzX1fL8",
       "copentecias":[{
         "passo1": "Java spring boot",
         "passo2": "Java",
