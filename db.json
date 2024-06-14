@@ -28,6 +28,14 @@
     }
   
   ],
+  "perfil":[
+    {
+      "id":0,
+      "nome": "Francilio Alencar de Sousa",
+      "interesse": "Full Stack| Java | Spring boot | React | Node | Typescript"
+      
+    }
+  ],
   "comments": [
     {
       "id": 1,
