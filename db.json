@@ -7,7 +7,26 @@
       "interesse": "Full Stack| Java | Spring boot | React | Node | Typescript",
       "foto" : "https://media.licdn.com/dms/image/C4E03AQGEzdPSj0Dytw/profile-displayphoto-shrink_200_200/0/1646363212583?e=1723680000&v=beta&t=qFQ2VAQDVyO-mndjEfMvoMFH0GFq6QIbBkxqZzX1fL8",
        "descricao": "Com mais de 13 anos de atuação no setor de saúde, desempenho um papel essencial não apenas como membro da equipe de liderança, mas também como desenvolvedor full stack. Ao longo dessa jornada, tive a oportunidade de desenvolver sistemas em diversas áreas, incluindo logística, sistemas especializados e imagens médicas.\n Participei ativamente de momentos críticos de transição de sistemas, desde a documentação e levantamento de requisitos até a elaboração e apresentação de relatórios e status. Esse envolvimento me permitiu alinhar de forma eficaz os processos de negócio com os sistemas tecnológicos.\n Tenho uma sólida experiência em programação, dominando linguagens como Java, Spring Boot, PHP, JavaScript, TypeScript e React. Além disso, possuo habilidades avançadas em banco de dados, trabalhando com Oracle e MySQL.\n Estou entusiasmado para contribuir em projetos que promovam a evolução tecnológica no nosso cenário. Vamos trabalhar juntos para impulsionar a inovação e alcançar novos patamares de sucesso!",
-      "competencias":["Java spring boot",  "Java", "Javascripty", "React", "Angulas"]
+      "competencias":[
+        {
+          "competencia": "Java spring boot | React",
+          "descricao": "O sistema de Time-out cirúrgico permite ao médico visualizar todos os procedimentos e materiais a serem utilizados durante a cirurgia, garantindo a segurança do paciente. Essa prática assegura que a equipe cirúrgica esteja completamente alinhada e consciente de cada etapa do processo, minimizando o risco de erros e promovendo uma cirurgia mais segura e eficaz.",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7191899328385339394/"
+        },
+
+        {
+          "competencia": "Java spring boot | React",
+          "descricao": "O sistema PACS permite ao médico exibir exames diretamente na tela, agilizando o processo de análise e entrega de laudos. Além de otimizar o fluxo de trabalho, o PACS facilita a comunicação entre o médico e o paciente, tornando o atendimento mais eficiente e preciso.",
+          "url": "https://www.linkedin.com/feed/update/urn:li:activity:7178722468759486464/"
+        },
+
+         {
+          "competencia": "Java spring boot | HTML | CSS | Javascript",
+          "descricao": "Sistema especialista: Este sistema permite que a equipe de atendimento médico registre a inclusão de colírios por meio da identificação do lote e do fornecedor, garantindo o rastreamento preciso dos lotes utilizados em pacientes. Essa funcionalidade assegura maior controle e segurança no uso dos medicamentos, facilitando a gestão e a qualidade do atendimento.",
+          "url": ""
+        }
+       
+      ]    
     }
   
   ],
